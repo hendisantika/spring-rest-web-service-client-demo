@@ -1,0 +1,10 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+archivesBaseName = 'rest-client'
+version = '1.0-SNAPSHOT' 
+repositories {
+    mavenCentral()
+}
+dependencies {
+   compile 'org.springframework.boot:spring-boot-starter-web:1.5.2.RELEASE'
+} 
