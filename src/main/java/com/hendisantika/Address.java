@@ -1,4 +1,4 @@
-package com.concretepage;
+package com.hendisantika;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
