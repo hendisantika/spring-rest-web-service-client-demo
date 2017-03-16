@@ -41,7 +41,7 @@ http://localhost:8080/spring-rest/data/fetchjson/212
 ### getForObject() for XML
 ```aidl
 http://localhost:8080/spring-rest/data/fetchxml/212
-<company-info xmlns="com.concretepage" id="212">
+<company-info xmlns="com.hendisantika" id="212">
   <company-name>XYZ</company-name>
   <ceo-name>ABCD</ceo-name>
   <no-emp>100</no-emp>
