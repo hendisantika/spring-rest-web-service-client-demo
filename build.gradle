@@ -8,5 +8,5 @@ repositories {
     mavenCentral()
 }
 dependencies {
-   compile 'org.springframework.boot:spring-boot-starter-web:1.5.21.RELEASE'
+   compile 'org.springframework.boot:spring-boot-starter-web:1.5.22.RELEASE'
 } 
